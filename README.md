@@ -2,7 +2,6 @@
 - 📱 I’m a mobile dev
 - 🦾 A professional at Flutter , Firebase and unity
 - 👀 also know React and Vue 
-- 🌱 I’m currently mastring laravel 
 - 📫 you can reach me using telegram @mohmdtke
 - ⚡ Fun fact: every thing take time , just don't rush it ..
 <!---
