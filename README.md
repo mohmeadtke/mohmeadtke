@@ -13,7 +13,7 @@
 
 ## 👋 About me
 
-Senior Flutter developer with **3+ years** of building and shipping production iOS and Android apps — **15+ of them live** on Google Play and the App Store. I focus on **Clean Architecture**, scalable state management with **Bloc** and **GetX**, the **Firebase** suite, and first-class **Arabic RTL** support. I enjoy the features most Flutter apps skip: CarPlay, Android Auto, Live Activities, background audio, offline-first downloads and AI.
+Senior Flutter developer with **3+ years** of building and shipping production iOS and Android apps — **15+ of them live** on Google Play and the App Store. I focus on **Clean Architecture**, scalable state management with **Bloc** and **GetX**, the **Firebase** suite, and first-class **Arabic RTL** support. I enjoy the features most Flutter apps skip: CarPlay, Android Auto, Live Activities, background audio, offline-first downloads, native Kotlin POS and printer integrations, and AI.
 
 ```dart
 class MohammedTaqiAli {
@@ -40,12 +40,12 @@ class MohammedTaqiAli {
   <tr>
     <td valign="top"><b>📥 Offline-first downloads</b><br /><sub>A complete download flow that tracks every file and image in SQLite (sqflite), so the app keeps working with no connection</sub></td>
     <td valign="top"><b>📷 Smart QR scanning</b><br /><sub>Scans that route users to the right screen or trigger interactive in-app actions</sub></td>
-    <td valign="top"><b>🔔 Push deep links</b><br /><sub>FCM notifications that open the exact screen they point to</sub></td>
+    <td valign="top"><b>🧾 POS, printing &amp; payments</b><br /><sub>Native <b>Kotlin</b> integration with POS devices and printers, bridged to Flutter, plus the Zain Cash payment gateway</sub></td>
   </tr>
   <tr>
+    <td valign="top"><b>🔔 Push deep links</b><br /><sub>FCM notifications that open the exact screen they point to</sub></td>
     <td valign="top"><b>🌍 Arabic &amp; RTL</b><br /><sub>Full Arabic/English localization with live LTR ↔ RTL switching</sub></td>
     <td valign="top"><b>🤖 AI &amp; ML Kit</b><br /><sub>AI-powered chat and on-device object detection with Google ML Kit</sub></td>
-    <td valign="top"><b>💳 Payments</b><br /><sub>Zain Cash payment gateway integrated into production apps</sub></td>
   </tr>
 </table>
 
@@ -95,6 +95,7 @@ class MohammedTaqiAli {
       <img src="https://img.shields.io/badge/App%20Store-0D1117?style=for-the-badge&logo=appstore&logoColor=13B9FD" alt="App Store" />
       <img src="https://img.shields.io/badge/Xcode-0D1117?style=for-the-badge&logo=xcode&logoColor=13B9FD" alt="Xcode" />
       <img src="https://img.shields.io/badge/Live%20Activities-0D1117?style=for-the-badge&logo=apple&logoColor=13B9FD" alt="Live Activities" />
+      <img src="https://img.shields.io/badge/POS%20%26%20Printers-0D1117?style=for-the-badge&logo=kotlin&logoColor=13B9FD" alt="POS and printers (Kotlin)" />
       <img src="https://img.shields.io/badge/FCM-0D1117?style=for-the-badge&logo=firebase&logoColor=13B9FD" alt="Firebase Cloud Messaging" />
       <img src="https://img.shields.io/badge/ML%20Kit-0D1117?style=for-the-badge&logo=google&logoColor=13B9FD" alt="Google ML Kit" />
     </td>
