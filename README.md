@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:13B9FD&height=200&section=header&text=Mohammed%20Taqi-Ali&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Senior%20Flutter%20Developer%20%E2%80%A2%20iOS%20%26%20Android&descSize=19&descAlignY=58&animation=fadeIn" width="100%" alt="Mohammed Taqi-Ali — Senior Flutter Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:13B9FD&height=200&section=header&text=Mohammed%20Taqi-Ali&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Senior%20Flutter%20Developer%20%E2%80%A2%20iOS%20%2B%20Android&descSize=19&descAlignY=58&animation=fadeIn" width="100%" alt="Mohammed Taqi-Ali — Senior Flutter Developer" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=13B9FD&center=true&vCenter=true&width=620&lines=Senior+Flutter+Developer+%40+RoboByte;15%2B+production+apps+on+Google+Play+%26+App+Store;CarPlay+%C2%B7+Android+Auto+%C2%B7+Background+audio;Clean+Architecture+%C2%B7+Bloc+%C2%B7+GetX+%C2%B7+Firebase;Everything+takes+time+%E2%80%94+don't+rush+it." alt="Senior Flutter Developer at RoboByte" />
 
